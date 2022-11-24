@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title> KM COLLEGE</title>
+        <img src="logo.jpg" class="img" alt="logo" height="20%" width="9%" align="left" margin-left="20%" margin-top="20px">
+        <h1 style="font-size:5rem" align="center">KM COLLEGE</h1>
+        <h1 align="center">BETTER EDUCATION TO<br> TRANSFORM THE WORLD </h1> <br><br>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="wrapper">
+            <!--navigation-->
+            <nav>
+                   <ul><li><a href="./HOME.html">HOME</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <li> <a href="./STUDENTS.html">STUDENTS</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <li> <a href="./COURSES.html">COURSES</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <li> <a href="./SPORTS.html">SPORTS</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   </ul>
+            </nav>
+            <!--end of navigation-->
+            <div class="section">            
+                <a href="#"><button class=btn-1> GET STARTED</button></a>
+                <!--features-->
+                <div class="features">
+                <button>Learn Online classes</button>
+                <button>Bridge Courses</button>
+                <button>Huge Library</button>
+                <button>Practical Exposure</button>
+            </div>
+            <div class="vision">
+                <h1 align="center" style="color:black"> VISION</h1>
+                <p align="center" style="color:black" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" style="font-size:0.5ch">Our vision is to develop well rounded, confident and responsible individuals who aspire to achieve their full potential. We will do this by providing a welcoming, happy, safe, and supportive learning environment in which everyone is equal and all achievements are celebrated.</p>
+            </div>
+            <div class="mission">
+                <h1 align="center" style="color:black"> MISSION</h1>
+                <p align="center" style="color:black" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" style="font-size:0.5ch">We aim to provide a safe learning environment with a welcoming atmosphere which creates a sense of belonging amongst the families. We maintain an inclusive environment which acknowledges and respects children from diverse family and cultural backgrounds.</p><br><br>
+            </div>
+            <div class="about">
+                <a href="./about.html">ABOUT</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="./location.html">LOCATION</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="./contact.html">CONTACT US</a></li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+             
+            
+            </div>
+
+            </div>
+            
+        </div>
+        
+
+ <footer>
+    <p> copyright &copy; 2022, Kamau</p>
+ </footer>
+
+</body>
+</html>
